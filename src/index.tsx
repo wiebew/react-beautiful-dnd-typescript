@@ -9,7 +9,7 @@ import { Column } from './models/column';
 class App extends React.Component {
   state = initialData;
 
-  // see all types for react-beautiful-dnd here https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-beautiful-dnd/v12/index.d.ts
+  // see all types for react-beautiful-dnd here https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-beautiful-dnd/index.d.ts
   onDragEnd = (result:DropResult) => {
     const { destination, source, draggableId } = result;
 

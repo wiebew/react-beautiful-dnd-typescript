@@ -4,4 +4,4 @@ This repo is the typescript version of the source code from [Alex Reardon his co
 
 The interfaces are defined in the models directory.
 
-The types of react-beautiful-dnd are on [Github](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-beautiful-dnd/v12/index.d.ts)
+The types of react-beautiful-dnd are on [Github](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-beautiful-dnd/index.d.ts)
